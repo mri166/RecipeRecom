@@ -1,0 +1,9 @@
+train_model.py 训练模型 
+fandv为数据集
+.h5为训练好的模型参数
+camera_predict.py调用摄像头进行识别
+识别结果保存到object_detection_results.txt文件中
+
+///////////////////////////////////
+运行start ui.py即可
+//////////////////////////////////

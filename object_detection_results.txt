@@ -1,0 +1,8 @@
+apple
+banana
+cabbage
+meat
+tomato
+potato
+carrot
+corn
