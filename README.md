@@ -13,7 +13,10 @@ pyqt5-tools               5.15.9.3.3
 qt5-applications          5.15.2.2.3           
 qt5-tools                 5.15.2.1.3          
 sqlite                    3.41.2              
-opencv-python             3.4.10.35    
+opencv-python             3.4.10.35 
+cudatoolkit               11.3.1             
+cudnn                     8.2.1.32     
+tensorflow-gpu            2.6.0                   
 ## 2.实现逻辑
 tensorflow训练图像识别模型，图像数据集来源于Kaggle。
 Neo4j构建知识图谱。
