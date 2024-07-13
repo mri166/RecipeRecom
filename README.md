@@ -1,5 +1,5 @@
 # RecipeRecom
-基于视觉识别和知识图谱的饮食推荐系统
+基于CNN和知识图谱的饮食推荐系统
 ## 1.运行环境
 python                    3.7.16
 tensorflow-gpu            2.6.0       
